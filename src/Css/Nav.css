@@ -1,0 +1,13 @@
+div > ul > li:hover{
+    font-weight: 1000;
+    border-bottom: 3px solid rgb(28, 70, 108);
+}
+
+li{
+    padding: 120px;
+}
+
+
+input{
+    font-size: 20px;
+}
