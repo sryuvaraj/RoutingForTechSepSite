@@ -8,7 +8,8 @@ const HPCU = () => {
       <div className='row' style={{borderBottom:"2px solid red"}}>
         <div>
           <div className='pt-5 px-4'>
-          <p style={{fontSize:"23px", fontWeight:"700"}} className='text-center text-light'>NATURAL GAS FILTRATION, REGULATING & METERING SYSTEM</p>
+          <h2 className="text-center text-light pb-4">HPCU Process</h2>
+          <p style={{fontSize:"23px", fontWeight:"700"}} className='text-center text-light'>High Pressuce Center Unit</p>
           <p style={{fontSize:"23px", fontWeight:"700"}} className='text-center text-light'>THAKETA – MAX POWER</p>
           </div>
           <div className='row m-5'>
